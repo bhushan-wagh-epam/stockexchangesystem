@@ -1,0 +1,6 @@
+rootProject.name = 'stockexchangesystem'
+include 'ordermanagementservice'
+include 'ordermatchingengine'
+include 'tradegenerationservice'
+include 'common'
+
